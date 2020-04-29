@@ -744,6 +744,7 @@ blockquote {
 }
 .cid-rXuZYIbiaR .content-text {
   margin-bottom: 0;
+  text-align: center;
 }
 .cid-rXuZYIbiaR .navbar-nav {
   position: relative;
@@ -892,6 +893,10 @@ blockquote {
   .cid-rXuZYIbiaR .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
     padding: 0.5rem 0;
+  }
+  .cid-rXuZYIbiaR .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rXuZYIbiaR .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rXuZYIbiaR .navbar-collapse.collapsing .navbar-buttons,
   .cid-rXuZYIbiaR .navbar-collapse.show .navbar-buttons {
@@ -1191,6 +1196,10 @@ blockquote {
 .cid-rXuZYIbiaR .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-rXuZYIbiaR .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
+}
+.cid-rXuZYIbiaR .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rXuZYIbiaR .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
 }
 .cid-rXuZYIbiaR .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rXuZYIbiaR .collapsed .navbar-collapse.show .navbar-buttons {

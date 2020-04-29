@@ -71,7 +71,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "<!-- WhatsHelp.io widget -->\n<script type=\"text/javascript\">\n(function () {\nvar options = {\nwhatsapp: \"+51 975 058 868\", // WhatsApp number\ncall_to_action: \"¿Tienes Preguntas?\", // Call to action\nposition: \"left\", // Position may be 'right' or 'left'\n};\nvar proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\nvar s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\ns.onload = function () { WhWidgetSendButton.init(host, proto, options); };\nvar x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n})();\n</script>\n<!-- /WhatsHelp.io widget -->",
-        "footer_custom": "",
+        "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5ea933cd69e9320caac85ea4/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
       },
       "components": [

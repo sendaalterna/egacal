@@ -2706,7 +2706,7 @@ blockquote {
 }
 .cid-rXvNFJp5UL .mbr-overlay {
   background: #002279;
-  background: linear-gradient(90deg, #002279, #000000);
+  background: linear-gradient(90deg, #002279, #4200ff);
 }
 .cid-rXvNFJp5UL .mbr-section-title {
   margin: 0;
@@ -2944,7 +2944,7 @@ blockquote {
   height: 100%;
   top: 0;
   right: 0%;
-  background: #002279;
+  background: #003cd3;
   z-index: 2;
   opacity: 1;
 }
@@ -2996,7 +2996,7 @@ blockquote {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  background: #002279;
+  background: #003cd3;
 }
 .cid-rXxms0jAPv .content1 {
   z-index: 5;
@@ -3188,7 +3188,7 @@ blockquote {
   height: 100%;
   top: 0;
   right: 0%;
-  background: #002279;
+  background: #003cd3;
   z-index: 2;
   opacity: 1;
 }
@@ -3240,7 +3240,7 @@ blockquote {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  background: #002279;
+  background: #003cd3;
 }
 .cid-rXxmEnKbsI .content1 {
   z-index: 5;

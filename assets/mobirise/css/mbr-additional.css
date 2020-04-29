@@ -1290,7 +1290,7 @@ blockquote {
 .cid-rXv14PVfjG {
   padding-top: 8rem;
   padding-bottom: 0rem;
-  background-color: #283742;
+  background-color: #002279;
 }
 .cid-rXv14PVfjG .content__block {
   padding: 50px 15px;
@@ -1322,7 +1322,7 @@ blockquote {
   width: 50%;
   height: 100%;
   right: 0;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(40, 55, 66, 0.99));
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(0, 34, 121, 0.99));
   z-index: 1;
   pointer-events: none;
 }
@@ -1352,7 +1352,7 @@ blockquote {
     width: 100%;
     height: 50%;
     bottom: 0;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(40, 55, 66, 0.99));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 34, 121, 0.99));
   }
 }
 @media (min-width: 992px) {
